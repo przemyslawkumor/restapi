@@ -1,0 +1,49 @@
+.App input, .App button {
+  display: block;
+  margin: 20px auto;
+  padding: 10px 20px;
+  border: 2px solid gray;
+  background-color: #fff;
+  transition: .3s;
+  font-size: 30px;
+}
+.App input{
+ width: 60%;
+}
+.App button {
+  cursor: pointer;
+  width: 40%;
+}
+
+.App button:hover {
+  background-color: #000;
+  color: white;
+  border-color: black;
+}
+
+.App{
+  width:60%;
+  margin: auto;
+}
+
+@media (max-width: 900px) {
+  .App button {
+    width: 70%;
+  }
+}
+
+@media (max-width: 800px){
+.App{
+  width: 80%;
+}
+}
+@media (max-width: 500px){
+.App{
+  width: 100%;
+}
+}
+@media (max-width: 400px){
+  .App input, .App button {
+    font-size: 25px;
+  }
+}
