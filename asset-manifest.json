@@ -1,0 +1,14 @@
+{
+  "main.css": "/restapi/static/css/main.8cdf2e2f.chunk.css",
+  "main.js": "/restapi/static/js/main.e1f09ee5.chunk.js",
+  "main.js.map": "/restapi/static/js/main.e1f09ee5.chunk.js.map",
+  "static/js/1.4a34e45d.chunk.js": "/restapi/static/js/1.4a34e45d.chunk.js",
+  "static/js/1.4a34e45d.chunk.js.map": "/restapi/static/js/1.4a34e45d.chunk.js.map",
+  "runtime~main.js": "/restapi/static/js/runtime~main.5a83691a.js",
+  "runtime~main.js.map": "/restapi/static/js/runtime~main.5a83691a.js.map",
+  "static/media/Result.css": "/restapi/static/media/weather.a15342d7.jpg",
+  "static/css/main.8cdf2e2f.chunk.css.map": "/restapi/static/css/main.8cdf2e2f.chunk.css.map",
+  "index.html": "/restapi/index.html",
+  "precache-manifest.1a06c28922a16942b19a2bfc267bf233.js": "/restapi/precache-manifest.1a06c28922a16942b19a2bfc267bf233.js",
+  "service-worker.js": "/restapi/service-worker.js"
+}
